@@ -20,7 +20,7 @@ for i, v in pairs(GetSave().Inventory.Currency) do
     end
 end
 
-if GemAmount1 < 10000 then
+if GemAmount1 < 70000 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/scripts/main/hiddenauto.lua"))()
 end
 
