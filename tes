@@ -3,7 +3,7 @@ LoadScreen = false -- If you want to enable loadgui, rename to true
 
 
 if LoadScreen == true then 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/loadingscreen"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/BoothSniper/main/silly.lua"))()
 end
 
 local library = require(game.ReplicatedStorage.Library)
